@@ -1,6 +1,6 @@
 # JavaScript Hide and Seek
 
-## Objectives
+## Objectiveshttps://learn.co/tracks/full-stack-web-dev-with-react/javascript-foundations/the-dom/hide-and-seek-lab#
 
 1.  Use document.querySelectorAll to find nested nodes
 2.  Change the value of the correct DOM nodes
